@@ -1,0 +1,15 @@
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\Variaveis-bool\bin\Debug\net6.0\Variaveis-bool.exe
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\Variaveis-bool\bin\Debug\net6.0\Variaveis-bool.deps.json
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\Variaveis-bool\bin\Debug\net6.0\Variaveis-bool.runtimeconfig.json
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\Variaveis-bool\bin\Debug\net6.0\Variaveis-bool.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\Variaveis-bool\bin\Debug\net6.0\Variaveis-bool.pdb
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\Variaveis-bool\obj\Debug\net6.0\Variaveis-bool.csproj.AssemblyReference.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\Variaveis-bool\obj\Debug\net6.0\Variaveis-bool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\Variaveis-bool\obj\Debug\net6.0\Variaveis-bool.AssemblyInfoInputs.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\Variaveis-bool\obj\Debug\net6.0\Variaveis-bool.AssemblyInfo.cs
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\Variaveis-bool\obj\Debug\net6.0\Variaveis-bool.csproj.CoreCompileInputs.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\Variaveis-bool\obj\Debug\net6.0\Variaveis-bool.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\Variaveis-bool\obj\Debug\net6.0\refint\Variaveis-bool.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\Variaveis-bool\obj\Debug\net6.0\Variaveis-bool.pdb
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\Variaveis-bool\obj\Debug\net6.0\Variaveis-bool.genruntimeconfig.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\Variaveis-bool\obj\Debug\net6.0\ref\Variaveis-bool.dll
