@@ -1,0 +1,15 @@
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\escopo\bin\Debug\net6.0\escopo.exe
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\escopo\bin\Debug\net6.0\escopo.deps.json
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\escopo\bin\Debug\net6.0\escopo.runtimeconfig.json
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\escopo\bin\Debug\net6.0\escopo.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\escopo\bin\Debug\net6.0\escopo.pdb
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\escopo\obj\Debug\net6.0\escopo.csproj.AssemblyReference.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\escopo\obj\Debug\net6.0\escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\escopo\obj\Debug\net6.0\escopo.AssemblyInfoInputs.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\escopo\obj\Debug\net6.0\escopo.AssemblyInfo.cs
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\escopo\obj\Debug\net6.0\escopo.csproj.CoreCompileInputs.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\escopo\obj\Debug\net6.0\escopo.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\escopo\obj\Debug\net6.0\refint\escopo.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\escopo\obj\Debug\net6.0\escopo.pdb
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\escopo\obj\Debug\net6.0\escopo.genruntimeconfig.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\escopo\obj\Debug\net6.0\ref\escopo.dll

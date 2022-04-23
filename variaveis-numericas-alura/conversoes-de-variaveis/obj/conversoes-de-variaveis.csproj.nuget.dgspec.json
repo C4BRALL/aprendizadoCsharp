@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jneto\\OneDrive\\Documents\\CSharp\\variaveis-numericas-alura\\conversoes-de-variaveis\\conversoes-de-variaveis.csproj": {}
+    "C:\\Users\\jneto\\OneDrive\\Documents\\CSharp\\learning\\variaveis-numericas-alura\\conversoes-de-variaveis\\conversoes-de-variaveis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jneto\\OneDrive\\Documents\\CSharp\\variaveis-numericas-alura\\conversoes-de-variaveis\\conversoes-de-variaveis.csproj": {
+    "C:\\Users\\jneto\\OneDrive\\Documents\\CSharp\\learning\\variaveis-numericas-alura\\conversoes-de-variaveis\\conversoes-de-variaveis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jneto\\OneDrive\\Documents\\CSharp\\variaveis-numericas-alura\\conversoes-de-variaveis\\conversoes-de-variaveis.csproj",
+        "projectUniqueName": "C:\\Users\\jneto\\OneDrive\\Documents\\CSharp\\learning\\variaveis-numericas-alura\\conversoes-de-variaveis\\conversoes-de-variaveis.csproj",
         "projectName": "conversoes-de-variaveis",
-        "projectPath": "C:\\Users\\jneto\\OneDrive\\Documents\\CSharp\\variaveis-numericas-alura\\conversoes-de-variaveis\\conversoes-de-variaveis.csproj",
+        "projectPath": "C:\\Users\\jneto\\OneDrive\\Documents\\CSharp\\learning\\variaveis-numericas-alura\\conversoes-de-variaveis\\conversoes-de-variaveis.csproj",
         "packagesPath": "C:\\Users\\jneto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jneto\\OneDrive\\Documents\\CSharp\\variaveis-numericas-alura\\conversoes-de-variaveis\\obj\\",
+        "outputPath": "C:\\Users\\jneto\\OneDrive\\Documents\\CSharp\\learning\\variaveis-numericas-alura\\conversoes-de-variaveis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
