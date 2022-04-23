@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "tipo-double-pontos-flutuantes/1.0.0": {
+        "runtime": {
+          "tipo-double-pontos-flutuantes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tipo-double-pontos-flutuantes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

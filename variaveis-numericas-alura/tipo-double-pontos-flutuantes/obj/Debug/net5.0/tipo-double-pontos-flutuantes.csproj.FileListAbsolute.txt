@@ -1,0 +1,16 @@
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\tipo-double-pontos-flutuantes\bin\Debug\net5.0\tipo-double-pontos-flutuantes.exe
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\tipo-double-pontos-flutuantes\bin\Debug\net5.0\tipo-double-pontos-flutuantes.deps.json
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\tipo-double-pontos-flutuantes\bin\Debug\net5.0\tipo-double-pontos-flutuantes.runtimeconfig.json
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\tipo-double-pontos-flutuantes\bin\Debug\net5.0\tipo-double-pontos-flutuantes.runtimeconfig.dev.json
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\tipo-double-pontos-flutuantes\bin\Debug\net5.0\tipo-double-pontos-flutuantes.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\tipo-double-pontos-flutuantes\bin\Debug\net5.0\tipo-double-pontos-flutuantes.pdb
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\tipo-double-pontos-flutuantes\obj\Debug\net5.0\tipo-double-pontos-flutuantes.csproj.AssemblyReference.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\tipo-double-pontos-flutuantes\obj\Debug\net5.0\tipo-double-pontos-flutuantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\tipo-double-pontos-flutuantes\obj\Debug\net5.0\tipo-double-pontos-flutuantes.AssemblyInfoInputs.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\tipo-double-pontos-flutuantes\obj\Debug\net5.0\tipo-double-pontos-flutuantes.AssemblyInfo.cs
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\tipo-double-pontos-flutuantes\obj\Debug\net5.0\tipo-double-pontos-flutuantes.csproj.CoreCompileInputs.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\tipo-double-pontos-flutuantes\obj\Debug\net5.0\tipo-double-pontos-flutuantes.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\tipo-double-pontos-flutuantes\obj\Debug\net5.0\refint\tipo-double-pontos-flutuantes.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\tipo-double-pontos-flutuantes\obj\Debug\net5.0\tipo-double-pontos-flutuantes.pdb
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\tipo-double-pontos-flutuantes\obj\Debug\net5.0\tipo-double-pontos-flutuantes.genruntimeconfig.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\tipo-double-pontos-flutuantes\obj\Debug\net5.0\ref\tipo-double-pontos-flutuantes.dll

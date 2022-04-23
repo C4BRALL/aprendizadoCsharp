@@ -1,0 +1,16 @@
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\variaveis-numericas-alura\bin\Debug\net5.0\variaveis-numericas-alura.exe
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\variaveis-numericas-alura\bin\Debug\net5.0\variaveis-numericas-alura.deps.json
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\variaveis-numericas-alura\bin\Debug\net5.0\variaveis-numericas-alura.runtimeconfig.json
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\variaveis-numericas-alura\bin\Debug\net5.0\variaveis-numericas-alura.runtimeconfig.dev.json
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\variaveis-numericas-alura\bin\Debug\net5.0\variaveis-numericas-alura.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\variaveis-numericas-alura\bin\Debug\net5.0\variaveis-numericas-alura.pdb
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\variaveis-numericas-alura\obj\Debug\net5.0\variaveis-numericas-alura.csproj.AssemblyReference.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\variaveis-numericas-alura\obj\Debug\net5.0\variaveis-numericas-alura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\variaveis-numericas-alura\obj\Debug\net5.0\variaveis-numericas-alura.AssemblyInfoInputs.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\variaveis-numericas-alura\obj\Debug\net5.0\variaveis-numericas-alura.AssemblyInfo.cs
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\variaveis-numericas-alura\obj\Debug\net5.0\variaveis-numericas-alura.csproj.CoreCompileInputs.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\variaveis-numericas-alura\obj\Debug\net5.0\variaveis-numericas-alura.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\variaveis-numericas-alura\obj\Debug\net5.0\refint\variaveis-numericas-alura.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\variaveis-numericas-alura\obj\Debug\net5.0\variaveis-numericas-alura.pdb
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\variaveis-numericas-alura\obj\Debug\net5.0\variaveis-numericas-alura.genruntimeconfig.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\variaveis-numericas-alura\obj\Debug\net5.0\ref\variaveis-numericas-alura.dll

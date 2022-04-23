@@ -1,0 +1,16 @@
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\conversoes-de-variaveis\bin\Debug\net5.0\conversoes-de-variaveis.exe
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\conversoes-de-variaveis\bin\Debug\net5.0\conversoes-de-variaveis.deps.json
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\conversoes-de-variaveis\bin\Debug\net5.0\conversoes-de-variaveis.runtimeconfig.json
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\conversoes-de-variaveis\bin\Debug\net5.0\conversoes-de-variaveis.runtimeconfig.dev.json
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\conversoes-de-variaveis\bin\Debug\net5.0\conversoes-de-variaveis.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\conversoes-de-variaveis\bin\Debug\net5.0\conversoes-de-variaveis.pdb
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\conversoes-de-variaveis\obj\Debug\net5.0\conversoes-de-variaveis.csproj.AssemblyReference.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\conversoes-de-variaveis\obj\Debug\net5.0\conversoes-de-variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\conversoes-de-variaveis\obj\Debug\net5.0\conversoes-de-variaveis.AssemblyInfoInputs.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\conversoes-de-variaveis\obj\Debug\net5.0\conversoes-de-variaveis.AssemblyInfo.cs
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\conversoes-de-variaveis\obj\Debug\net5.0\conversoes-de-variaveis.csproj.CoreCompileInputs.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\conversoes-de-variaveis\obj\Debug\net5.0\conversoes-de-variaveis.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\conversoes-de-variaveis\obj\Debug\net5.0\refint\conversoes-de-variaveis.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\conversoes-de-variaveis\obj\Debug\net5.0\conversoes-de-variaveis.pdb
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\conversoes-de-variaveis\obj\Debug\net5.0\conversoes-de-variaveis.genruntimeconfig.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\conversoes-de-variaveis\obj\Debug\net5.0\ref\conversoes-de-variaveis.dll

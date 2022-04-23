@@ -1,0 +1,15 @@
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\atribuicao-de-variavel\bin\Debug\net6.0\atribuicao-de-variavel.exe
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\atribuicao-de-variavel\bin\Debug\net6.0\atribuicao-de-variavel.deps.json
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\atribuicao-de-variavel\bin\Debug\net6.0\atribuicao-de-variavel.runtimeconfig.json
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\atribuicao-de-variavel\bin\Debug\net6.0\atribuicao-de-variavel.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\atribuicao-de-variavel\bin\Debug\net6.0\atribuicao-de-variavel.pdb
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\atribuicao-de-variavel\obj\Debug\net6.0\atribuicao-de-variavel.csproj.AssemblyReference.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\atribuicao-de-variavel\obj\Debug\net6.0\atribuicao-de-variavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\atribuicao-de-variavel\obj\Debug\net6.0\atribuicao-de-variavel.AssemblyInfoInputs.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\atribuicao-de-variavel\obj\Debug\net6.0\atribuicao-de-variavel.AssemblyInfo.cs
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\atribuicao-de-variavel\obj\Debug\net6.0\atribuicao-de-variavel.csproj.CoreCompileInputs.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\atribuicao-de-variavel\obj\Debug\net6.0\atribuicao-de-variavel.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\atribuicao-de-variavel\obj\Debug\net6.0\refint\atribuicao-de-variavel.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\atribuicao-de-variavel\obj\Debug\net6.0\atribuicao-de-variavel.pdb
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\atribuicao-de-variavel\obj\Debug\net6.0\atribuicao-de-variavel.genruntimeconfig.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\atribuicao-de-variavel\obj\Debug\net6.0\ref\atribuicao-de-variavel.dll

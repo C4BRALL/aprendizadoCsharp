@@ -1,0 +1,15 @@
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\characteres-strings\bin\Debug\net6.0\characteres-strings.exe
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\characteres-strings\bin\Debug\net6.0\characteres-strings.deps.json
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\characteres-strings\bin\Debug\net6.0\characteres-strings.runtimeconfig.json
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\characteres-strings\bin\Debug\net6.0\characteres-strings.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\characteres-strings\bin\Debug\net6.0\characteres-strings.pdb
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\characteres-strings\obj\Debug\net6.0\characteres-strings.csproj.AssemblyReference.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\characteres-strings\obj\Debug\net6.0\characteres-strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\characteres-strings\obj\Debug\net6.0\characteres-strings.AssemblyInfoInputs.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\characteres-strings\obj\Debug\net6.0\characteres-strings.AssemblyInfo.cs
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\characteres-strings\obj\Debug\net6.0\characteres-strings.csproj.CoreCompileInputs.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\characteres-strings\obj\Debug\net6.0\characteres-strings.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\characteres-strings\obj\Debug\net6.0\refint\characteres-strings.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\characteres-strings\obj\Debug\net6.0\characteres-strings.pdb
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\characteres-strings\obj\Debug\net6.0\characteres-strings.genruntimeconfig.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\variaveis-numericas-alura\characteres-strings\obj\Debug\net6.0\ref\characteres-strings.dll
