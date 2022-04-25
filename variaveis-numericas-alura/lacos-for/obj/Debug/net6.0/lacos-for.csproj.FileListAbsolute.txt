@@ -1,0 +1,15 @@
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\lacos-for\bin\Debug\net6.0\lacos-for.exe
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\lacos-for\bin\Debug\net6.0\lacos-for.deps.json
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\lacos-for\bin\Debug\net6.0\lacos-for.runtimeconfig.json
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\lacos-for\bin\Debug\net6.0\lacos-for.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\lacos-for\bin\Debug\net6.0\lacos-for.pdb
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\lacos-for\obj\Debug\net6.0\lacos-for.csproj.AssemblyReference.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\lacos-for\obj\Debug\net6.0\lacos-for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\lacos-for\obj\Debug\net6.0\lacos-for.AssemblyInfoInputs.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\lacos-for\obj\Debug\net6.0\lacos-for.AssemblyInfo.cs
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\lacos-for\obj\Debug\net6.0\lacos-for.csproj.CoreCompileInputs.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\lacos-for\obj\Debug\net6.0\lacos-for.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\lacos-for\obj\Debug\net6.0\refint\lacos-for.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\lacos-for\obj\Debug\net6.0\lacos-for.pdb
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\lacos-for\obj\Debug\net6.0\lacos-for.genruntimeconfig.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\lacos-for\obj\Debug\net6.0\ref\lacos-for.dll
