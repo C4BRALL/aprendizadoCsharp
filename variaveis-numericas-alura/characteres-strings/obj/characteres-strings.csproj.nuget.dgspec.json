@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jneto\\OneDrive\\Documents\\CSharp\\variaveis-numericas-alura\\characteres-strings\\characteres-strings.csproj": {}
+    "C:\\Users\\jneto\\OneDrive\\Documents\\CSharp\\learning\\variaveis-numericas-alura\\characteres-strings\\characteres-strings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jneto\\OneDrive\\Documents\\CSharp\\variaveis-numericas-alura\\characteres-strings\\characteres-strings.csproj": {
+    "C:\\Users\\jneto\\OneDrive\\Documents\\CSharp\\learning\\variaveis-numericas-alura\\characteres-strings\\characteres-strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jneto\\OneDrive\\Documents\\CSharp\\variaveis-numericas-alura\\characteres-strings\\characteres-strings.csproj",
+        "projectUniqueName": "C:\\Users\\jneto\\OneDrive\\Documents\\CSharp\\learning\\variaveis-numericas-alura\\characteres-strings\\characteres-strings.csproj",
         "projectName": "characteres-strings",
-        "projectPath": "C:\\Users\\jneto\\OneDrive\\Documents\\CSharp\\variaveis-numericas-alura\\characteres-strings\\characteres-strings.csproj",
+        "projectPath": "C:\\Users\\jneto\\OneDrive\\Documents\\CSharp\\learning\\variaveis-numericas-alura\\characteres-strings\\characteres-strings.csproj",
         "packagesPath": "C:\\Users\\jneto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jneto\\OneDrive\\Documents\\CSharp\\variaveis-numericas-alura\\characteres-strings\\obj\\",
+        "outputPath": "C:\\Users\\jneto\\OneDrive\\Documents\\CSharp\\learning\\variaveis-numericas-alura\\characteres-strings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
