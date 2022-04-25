@@ -1,0 +1,15 @@
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\extra-break\bin\Debug\net6.0\extra-break.exe
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\extra-break\bin\Debug\net6.0\extra-break.deps.json
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\extra-break\bin\Debug\net6.0\extra-break.runtimeconfig.json
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\extra-break\bin\Debug\net6.0\extra-break.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\extra-break\bin\Debug\net6.0\extra-break.pdb
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\extra-break\obj\Debug\net6.0\extra-break.csproj.AssemblyReference.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\extra-break\obj\Debug\net6.0\extra-break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\extra-break\obj\Debug\net6.0\extra-break.AssemblyInfoInputs.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\extra-break\obj\Debug\net6.0\extra-break.AssemblyInfo.cs
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\extra-break\obj\Debug\net6.0\extra-break.csproj.CoreCompileInputs.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\extra-break\obj\Debug\net6.0\extra-break.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\extra-break\obj\Debug\net6.0\refint\extra-break.dll
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\extra-break\obj\Debug\net6.0\extra-break.pdb
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\extra-break\obj\Debug\net6.0\extra-break.genruntimeconfig.cache
+C:\Users\jneto\OneDrive\Documents\CSharp\learning\variaveis-numericas-alura\extra-break\obj\Debug\net6.0\ref\extra-break.dll
